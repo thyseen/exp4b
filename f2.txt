@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hgbnn bn b
 fdffbg
+=======
+this file is add at feature branch
+>>>>>>> fb1
